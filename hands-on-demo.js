@@ -69,6 +69,8 @@ This is a paragraph with :abbr[HTML]{title="HyperText Markup Language"} abbrevia
 :::warning
 Be careful when deleting records. This action cannot be undone.
 :::
+
+![Alt Text](https://example.com/image.jpg)
 `.trim();
 
 // Stage 1: Markdown → MDAST
